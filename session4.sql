@@ -28,4 +28,4 @@ GO
 INSERT INTO Sales.Customers 
 VALUES
 ('Armin','Shoeibi','2001-05-01','09','rmin@cyberservices.com'),
-('Eren','Yeager','2013-04-07','','');
+('Eren','Yeager','2013-04-07',NULL,NULL);
